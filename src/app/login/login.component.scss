@@ -1,0 +1,64 @@
+.background{
+    width: 100%;
+    height: 100vh; 
+    background-image: url("https://cdn.pixabay.com/photo/2017/08/10/07/20/grocery-store-2619380_960_720.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+
+}
+
+.login-container {
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(240, 230, 140, 0.725);
+
+}
+
+.login-form {
+    background-color: rgba(255, 255, 255, 0.362);
+    border: 1px solid black;
+    font-size: 30px;
+    font-weight: bold;
+    width: 500px;
+}
+
+.logo {
+    // position: absolute;
+    // top: 10px;
+    // right: 350px;
+    font-size: 80px;
+    letter-spacing: 2px;
+    color: rgb(14, 38, 197);
+    font-weight: bold;
+
+}
+
+.about {
+    // position: absolute;
+    // top: 80px;
+    // right: 357px;
+    font-size: 20px;
+    // width: 600px;
+    color: rgb(27, 30, 203);
+}
+
+.logclass{
+    position: absolute;
+    bottom: 150px;
+    right: 50px;
+}
+
+#login-to-continue{
+    font-size: 50px;
+    font-weight: 100px;
+    text-align: center;
+    color: blue;
+}
+
+.img-fluid{
+    height:75vh;
+    width: 800px;
+    opacity: 0.9;
+}
